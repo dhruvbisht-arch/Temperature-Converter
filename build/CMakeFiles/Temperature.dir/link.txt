@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/Temperature.dir/link.d CMakeFiles/Temperature.dir/main.c.o CMakeFiles/Temperature.dir/functions.c.o -o Temperature

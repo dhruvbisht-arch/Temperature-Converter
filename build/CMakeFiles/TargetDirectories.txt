@@ -1,0 +1,3 @@
+/home/tester/Desktop/Project/temperature/build/CMakeFiles/Temperature.dir
+/home/tester/Desktop/Project/temperature/build/CMakeFiles/edit_cache.dir
+/home/tester/Desktop/Project/temperature/build/CMakeFiles/rebuild_cache.dir
